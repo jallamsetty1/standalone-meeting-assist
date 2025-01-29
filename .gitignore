@@ -1,0 +1,4 @@
+//Ignore dist folder
+dist/
+build/
+node_modules/
